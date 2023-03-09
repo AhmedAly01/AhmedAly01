@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-aly-5b454a25a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="30" width="30" /></a>
  <a href="https://www.facebook.com/Ahmed.Aly074" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mostafagalal1/" target="blank"><img align="center" src="https://www.tellmebest.com/wp-content/uploads/2022/03/discord-logo-4-1.png" height="30" width="30" /></a>
   <a href="mailto:mido.aly028@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="30" /></a>
 <a href="https://leetcode.com/AhmedAly0110/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
